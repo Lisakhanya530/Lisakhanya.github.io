@@ -57,3 +57,14 @@ Passionate about storytelling and creating intuitive, user-centered digital expe
 <video width="600" controls>
   <source src="Interview.mp4" type="video/mp4">
 </video>
+
+# Reflections
+
+## Reflection of CV (Markdown)
+Firstly, I learned a new language, which is Markdown. It was a bit challenging to use at first because I didn’t understand how it worked. However, after doing some research, I started to understand it better and was eventually able to use it correctly to write my CV. Although there were a few challenges along the way, I managed to overcome them and became more confident in using Markdown.
+
+## Reflection of the Mock Interview Video
+The first step was choosing the questions I was going to answer, which was difficult because many of them seemed challenging. I asked a friend to help me film the video, which made the process a bit easier. After learning about the STAR method, I initially struggled to structure my answers. Recording the video was also challenging because I kept making mistakes and forgetting what I wanted to say. However, with practice, I improved and was eventually able to record my video successfully.
+
+## Reflection of GitHub Portfolio/Pages
+This part was the most challenging for me because I was not familiar with using GitHub, and it was my first time working with it. I struggled to complete the tasks on my own and needed help from my friends. After they guided me, I began to understand how GitHub works and was able to create my GitHub Pages. Eventually, I became more confident and was even able to assist others. Overall, it was a valuable learning experience.
